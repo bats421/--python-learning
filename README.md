@@ -1,4 +1,4 @@
-语音助手--python-learning
+语音助手--python-learning（初学习，有待改进）
 
 1.Pocketsphinx 语音识别接口
 
